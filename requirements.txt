@@ -1,0 +1,2 @@
+git+git://github.com/pysam-developers/pysam.git#egg=pysam
+git+git://github.com/funkshun/msbwt3.git#egg=msbwt3
